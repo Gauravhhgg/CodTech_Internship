@@ -7,7 +7,7 @@ The dataset used for this project is Mall_Customers.csv, which contains informat
 
 CustomerID: Unique identifier for each customer Gender: Gender of the customer Age: Age of the customer Annual Income: Annual income of the customer in $000 Spending Score: A score assigned by the mall based on customer behavior and spending nature Project Structure Customer_Segmentation.ipynb: The Jupyter Notebook containing the code for data preprocessing, exploration, and the implementation of the customer segmentation model. Mall_Customers.csv: The dataset used for this project. Getting Started Prerequisites To run the code in this repository, you need to have the following installed:
 
-#Python (version 3.6 or above) Jupyter Notebook Required Python libraries: pandas, numpy, matplotlib, seaborn, scikit-learn Installation Clone the repository:
+#Python (version 3.6 or above) Jupyter Notebook Required Python libraries: pandas, numpy, matplotlib, seaborn, scikit-learn 
 
 #Methodology Data Exploration and Preprocessing:
 
